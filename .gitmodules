@@ -1,0 +1,9 @@
+[submodule "hardware/Explorator"]
+	path = hardware/Explorator
+	url = https://github.com/nathanshaw/Explorator
+[submodule "hardware/Speculator"]
+	path = hardware/Speculator
+	url = https://github.com/nathanshaw/Speculator
+[submodule "hardware/Legatus"]
+	path = hardware/Legatus
+	url = https://github.com/nathanshaw/Legatus
