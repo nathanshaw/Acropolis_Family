@@ -7,3 +7,6 @@
 [submodule "hardware/Legatus"]
 	path = hardware/Legatus
 	url = https://github.com/nathanshaw/Legatus
+[submodule "hardware/Acropolis_Family_Design_Blocks"]
+	path = hardware/Design_Blocks
+	url = https://github.com/nathanshaw/Acropolis_Family_Design_Blocks
