@@ -10,3 +10,9 @@
 [submodule "hardware/Acropolis_Family_Design_Blocks"]
 	path = hardware/Design_Blocks
 	url = https://github.com/nathanshaw/Acropolis_Family_Design_Blocks
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/nathanshaw/Acropolis_Family_Firmware
+[submodule "physical_design"]
+	path = physical_design
+	url = https://github.com/nathanshaw/Acropolis_Family_Physical_Design
