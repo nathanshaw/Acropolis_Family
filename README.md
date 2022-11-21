@@ -9,3 +9,5 @@ The Speculator genus can be found here: https://github.com/nathanshaw/speculator
 The Explorator genus can be found here: https://github.com/nathanshaw/explorator
 
 The Legatus genus can be found here: https://github.com/nathanshaw/legatus
+
+Footage and discussions concerning the Hyper-Soundwalk project can be found on this Facebook page: https://www.facebook.com/hypersoundwalk
